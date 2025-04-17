@@ -29,6 +29,9 @@ body{
     color: white;
     
 }
+.container h1 span{
+    color: rgb(0, 238, 12);
+}
 .container .input-box{
     position: relative;
     width: 100%;
